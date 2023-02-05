@@ -13,7 +13,6 @@
 
 <div align="https://github.com/Hugoosan69">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Hugoosan69&show_icons=true&theme=merko#gh-light-mode-only"/>
-  <img height="200em " src="https://github-readme-stats.vercel.app/api/top-langs/?username=RD0705&layout=true&theme=merko#gh-light-mode-only"/>
    </a>
  </div>
 
