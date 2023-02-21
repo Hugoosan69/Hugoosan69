@@ -8,6 +8,8 @@
  ⌨ Você é apenas um instante no tempo <br/>
   <br/>
   <br/>
+  <progress value="70" max="100">70 %</progress>
+
   
 <!--Status -->
 
