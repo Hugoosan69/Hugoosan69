@@ -6,9 +6,8 @@
  ⌨ Estudando HTML5 | CSS 3 | JS <br/>
  ⌨ 21 anos <br/>
  ⌨ Você é apenas um instante no tempo <br/>
-  <br/>
-  <br/>
-  <progress value="70" max="100">70 %</progress>
+ <b>Progresso 30%</b>
+
 
   
 <!--Status -->
