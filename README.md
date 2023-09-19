@@ -4,7 +4,7 @@
   <br/>
  
  ⌨ Estudando HTML5 | CSS 3 | JS <br/>
- ⌨ 21 anos <br/>
+ ⌨ 22 anos <br/>
  ⌨ Você é apenas um instante no tempo <br/><br>
  <b>Progresso 30%</b>
 
