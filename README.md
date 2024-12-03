@@ -1,12 +1,12 @@
  <p align="center">Opa, joia? </p>
-  <p align="center">Me chamo <a href="https://www.linkedin.com/in/hugo-santos-800411208/"><i>Hugo Henrique Dos Santos Silva</i></a> atualmente cursando Análise e Desenvolvimento de sistemas no IESB, estudando pra um dia me tornar um front-end developer </p>
+  <p align="center">Me chamo <a href="https://www.linkedin.com/in/hugo-santos-800411208/"><i>Hugo Henrique Dos Santos Silva</i></a> formadoem  Análise e Desenvolvimento de sistemas, estudando pra um dia me tornar um Desenvolvedor C# </p>
   <br/>
   <br/>
  
- ⌨ Estudando HTML5 | CSS 3 | JS <br/>
- ⌨ 22 anos <br/>
+ ⌨ Estudando C# | SQL Server | JS <br/>
+ ⌨ 23 anos <br/>
  ⌨ Você é apenas um instante no tempo <br/><br>
- <b>Progresso 30%</b>
+ <b>Progresso 50%</b>
 
 
   
