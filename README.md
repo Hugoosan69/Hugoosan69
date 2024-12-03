@@ -1,5 +1,5 @@
  <p align="center">Opa, joia? </p>
-  <p align="center">Me chamo <a href="https://www.linkedin.com/in/hugo-santos-800411208/"><i>Hugo Henrique Dos Santos Silva</i></a> formadoem  Análise e Desenvolvimento de sistemas, estudando pra um dia me tornar um Desenvolvedor C# </p>
+  <p align="center">Me chamo <a href="https://www.linkedin.com/in/hugo-santos-800411208/"><i>Hugo Henrique Dos Santos Silva</i></a> formado em  Análise e Desenvolvimento de sistemas, estudando pra um dia me tornar um Desenvolvedor C# </p>
   <br/>
   <br/>
  
